@@ -148,8 +148,7 @@ video{
 /*css de la informacion*/
 .info{
   color: white;
-  background-color: #76278f;
-  background: linear-gradient(rgba(118, 39, 143, 1), rgba(43, 30, 102, 1));
+  background:  linear-gradient(#660e83, #2B1E66)
 }
 .info .izquierda{
   display: inline-block;
