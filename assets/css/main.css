@@ -222,9 +222,11 @@ footer li{
   list-style: none;
   margin: 25% 0;
   font-size: 14px;
+  cursor: pointer;
 }
 footer li a{
   color: white;
+  cursor: pointer;
 }
 footer li h3{
   font-size: 18px;
@@ -262,6 +264,10 @@ footer .abajo .enlaces-iconos span{
   top: -40%;
   left: -30%;
 }
+.movidito{
+  margin-left: 30%;
+}
+
 footer .abajo .enlaces-iconos .enlaces{
   display: inline-block;
   margin: 0 6%;
