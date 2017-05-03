@@ -40,7 +40,7 @@ input:focus{
 .menu li{
   display: inline-block;
   list-style: none;
-  width: 13%;
+  width: 96px;
 }
 .menu li a{
   cursor: pointer;
